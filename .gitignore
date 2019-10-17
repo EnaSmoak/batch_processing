@@ -1,0 +1,6 @@
+# ignore all data files
+data/
+trials/
+src/.ipynb_checkpoints
+src/alldata.csv
+src/companies.csv
